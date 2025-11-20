@@ -19,6 +19,9 @@ samples, guidance on mobile development, and a full API reference.
 
 # Sicte SAS CCOT Flutter
 
+### Descargar el SDK de Flutter
+https://docs.flutter.dev/get-started
+
 ### Configurar variables de entorno sobre terminal solo para esa sesion de terminal
 set FLUTTER_HOME=C:\src\flutter
 set PATH=%FLUTTER_HOME%\bin;%PATH%
